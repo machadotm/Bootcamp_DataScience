@@ -1,5 +1,5 @@
 # Bootcamp Cientista de Dados
- Atividades desenvolvidas no bootcamp Cientista de Dados da Faculdade XP Edcuação (IGTI)
+ Atividades desenvolvidas no bootcamp Cientista de Dados da Faculdade XP Educação (IGTI)
  
  O módulo 1 foi utilizado a linguagem R
  
